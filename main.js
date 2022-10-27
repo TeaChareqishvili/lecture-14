@@ -51,4 +51,13 @@ const aboutPerson =  [person1, person2, person3, person4, person5];
 
 // 3 //
 
+const info = {
+    firstName: "Tea",
+    lastName: "Chareqishvili",
+    age: 33,
+    phoneNumber: 599923434,
+    address: "Tbilisi, meskhia",
+    zipCode: 01017040120,
+};
 
+console.log ("User name is  " + info.firstName  + " user age is "  + info.age  + " user address is " + info.address);
