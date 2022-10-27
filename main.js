@@ -60,4 +60,4 @@ const info = {
     zipCode: 01017040120,
 };
 
-console.log ("User name is  " + info.firstName  + " user age is "  + info.age  + " user address is " + info.address);
+// console.log ("User name is  " + info.firstName  + " user age is "  + info.age  + " user address is " + info.address);
