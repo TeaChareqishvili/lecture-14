@@ -1,4 +1,5 @@
 
+// 1 //
 
 const arrayNum = [2,4,7,1,3];
 
@@ -12,4 +13,42 @@ const summary = arrayNum[0] + arrayNum[1] + arrayNum[2] + arrayNum[3] + arrayNum
 const result = summary / sum;
 
 // console.log(result);
+
+
+// 2 //
+
+const person1  = {
+    Name: "tea",
+    age: 33,
+};
+
+const person2 = {
+    Name: "eka",
+    age: 27,
+};
+
+const person3 = {
+    Name: "giorgi",
+    age: 30,
+};
+
+const person4 = {
+    Name: "lika",
+    age: 35,
+};
+
+const person5 = {
+    Name: "bela",
+    age: 55,
+};
+
+
+
+const aboutPerson =  [person1, person2, person3, person4, person5]; 
+
+// console.log(aboutPerson);
+
+
+// 3 //
+
 
